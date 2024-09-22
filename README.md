@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `AIPopup` component provides an interactive interface for generating AI responses based on user prompts. Built with React and styled using Tailwind CSS, it allows users to easily input prompts, generate responses, and manage their interactions with the generated content.
+The `AIPopup` component provides an interactive interface for generating AI responses based on user prompts. Built with React and WXT Framework and styled using Tailwind CSS, it allows users to easily input prompts, generate responses, and manage their interactions with the generated content.
 
 ## Features
 
