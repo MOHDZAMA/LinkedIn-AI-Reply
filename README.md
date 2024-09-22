@@ -34,3 +34,7 @@ The `AIPopup` component provides an interactive interface for generating AI resp
 
 
 ````
+
+VIDEO DEMO
+
+https://github.com/user-attachments/assets/3b1bd947-03d5-48d0-aaad-0659b13d7d03
